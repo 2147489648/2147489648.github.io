@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Life is a comet</title>
+        <link>https://comet.hk</link>
+        <description></description>
+        <language>zh-HK</language>
+        <pubDate>Sun, 15 Oct 2023 22:16:15 +0800</pubDate>
+        <lastBuildDate>Sun, 15 Oct 2023 22:16:15 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://comet.hk/2023/10/15/hello-world/</guid>
+            <title>Yo guys!</title>
+            <link>https://comet.hk/2023/10/15/hello-world/</link>
+            <pubDate>Sun, 15 Oct 2023 22:16:15 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;大家好！很高興終於能夠架設這個網站，亦很期待可以在這裏和大家分享我的生活點滴！&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://comet.hk</id>
+    <title>Life is a comet</title>
+    <link href="https://comet.hk" />
+    <updated>2023-10-15T14:16:15.644Z</updated>
+    <entry>
+        <id>https://comet.hk/2023/10/15/hello-world/</id>
+        <title>Yo guys!</title>
+        <link rel="alternate" href="https://comet.hk/2023/10/15/hello-world/"/>
+        <content type="html">&lt;p&gt;大家好！很高興終於能夠架設這個網站，亦很期待可以在這裏和大家分享我的生活點滴！&lt;/p&gt;
+</content>
+        <updated>2023-10-15T14:16:15.644Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Life is a comet",
+    "description": "",
+    "home_page_url": "https://comet.hk",
+    "items": [
+        {
+            "id": "https://comet.hk/2023/10/15/hello-world/",
+            "url": "https://comet.hk/2023/10/15/hello-world/",
+            "title": "Yo guys!",
+            "date_published": "2023-10-15T14:16:15.644Z",
+            "content_html": "<p>大家好！很高興終於能夠架設這個網站，亦很期待可以在這裏和大家分享我的生活點滴！</p>\n",
+            "tags": []
+        }
+    ]
+}
